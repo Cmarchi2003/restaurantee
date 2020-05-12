@@ -1,0 +1,73 @@
+body{
+    background-image: url('http://www.sebraemercados.com.br/wp-content/uploads/2017/05/restaurante-sebrae-2-e1494853241838.jpg');
+    font-family: arial;
+    background-size:100vw, 100vh;
+  }
+  
+  .menu {
+    background-image: url('https://image.freepik.com/fotos-gratis/textura-horizontal-de-fundo-preto-lousa-suja_53938-128.jpg');
+  }
+  a {
+    color: orange;
+    text-decoration: none;
+    
+  }
+   
+  .menu ul {
+  display: flex;
+  justify-content: space-between;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  .site-title{
+    text-align: center;
+    font-family: times-new-roman;
+    color: teal
+  }
+  
+  .site-subtitle{
+    font-family: arial-black;
+    text-align: center;
+    color: red;
+    font-style: italic;
+  }
+body{
+  background-image: url('http://www.sebraemercados.com.br/wp-content/uploads/2017/05/restaurante-sebrae-2-e1494853241838.jpg');
+  font-family: arial;
+  background-size:100vw, 100vh;
+}
+
+.menu {
+  background-image: url('https://image.freepik.com/fotos-gratis/textura-horizontal-de-fundo-preto-lousa-suja_53938-128.jpg');
+}
+a {
+  color: orange;
+  text-decoration: none;
+  
+}
+ 
+.menu ul {
+display: flex;
+justify-content: space-between;
+}
+
+.menu li {
+  list-style: none;
+}
+
+.site-title{
+  text-align: center;
+  font-family: times-new-roman;
+  color: teal
+}
+
+.site-subtitle{
+  font-family: arial-black;
+  text-align: center;
+  color: red;
+  font-style: italic;
+}
+  
